@@ -1,6 +1,5 @@
 # E-commerce 
 
-![6308bd696079c90019e38466](https://user-images.githubusercontent.com/57331052/216401700-08c2805b-ded0-4fa5-a597-1115605002c7.png)
 
 ## Explicacion de los npm adicionales descargados
 
